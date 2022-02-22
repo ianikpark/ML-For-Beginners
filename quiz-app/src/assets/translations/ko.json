@@ -12,11 +12,11 @@
 						"questionText": "머신러닝의 응용은 우리 주위에 어디에나 있다.",
 						"answerOptions": [
 							{
-								"answerText": "맞다",
+								"answerText": "맞다.",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "틀리다",
+								"answerText": "틀리다.",
 								"isCorrect": "false"
 							}
 						]
@@ -25,7 +25,7 @@
 						"questionText": "기존의 클래식한 머신러닝과 딥러닝의 기술적 차이점은 무엇인가?",
 						"answerOptions": [
 							{
-								"answerText": "기존의 클래식한 머신러닝이 먼저 발명되었다",
+								"answerText": "기존의 클래식한 머신러닝이 먼저 발명되었다.",
 								"isCorrect": "false"
 							},
 							{
@@ -33,7 +33,7 @@
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "딥러닝은 로봇에 사용된다",
+								"answerText": "딥러닝은 로봇에 사용된다.",
 								"isCorrect": "false"
 							}
 						]
@@ -50,7 +50,7 @@
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "이상 두 가지 모두 맞다",
+								"answerText": "이상 두 가지 모두 맞다.",
 								"isCorrect": "true"
 							}
 						]
@@ -107,7 +107,7 @@
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "이상 두 가지 모두 맞다",
+								"answerText": "이상 두 가지 모두 맞다.",
 								"isCorrect": "true"
 							}
 						]
@@ -244,7 +244,7 @@
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "이상 두 가지 모두 맞다",
+								"answerText": "이상 두 가지 모두 맞다.",
 								"isCorrect": "true"
 							}
 						]
@@ -318,7 +318,7 @@
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "이상 두 가지 모두 맞다",
+								"answerText": "이상 두 가지 모두 맞다.",
 								"isCorrect": "true"
 							}
 						]
@@ -375,7 +375,7 @@
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "이상 두 가지 모두 맞다",
+								"answerText": "이상 두 가지 모두 맞다.",
 								"isCorrect": "true"
 							}
 						]
@@ -407,15 +407,15 @@
 						"questionText": "데이터를 시각화해야 하는 이유는 무엇인가?",
 						"answerOptions": [
 							{
-								"answerText": "이상치를 발견할 수 있다",
+								"answerText": "이상치를 발견할 수 있다.",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "편견의 잠재적 원인을 발견할 수 있다",
+								"answerText": "편견의 잠재적 원인을 발견할 수 있다.",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "이상 두 가지 모두 맞다",
+								"answerText": "이상 두 가지 모두 맞다.",
 								"isCorrect": "true"
 							}
 						]
@@ -529,7 +529,7 @@
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "이중 적합(Double Fitting)",
+								"answerText": "이중 적합(double fitting)",
 								"isCorrect": "false"
 							}
 						]
@@ -649,7 +649,7 @@
 						]
 					},
 					{
-						"questionText": "데이터세트에서 서로 다른 데이터 포인트 군집의 분포를 이해하려는 경우 다음 중 유용한 시각화(plotting) 방법은 무엇인가?",
+						"questionText": "데이터세트에서 서로 다른 데이터 포인트 군집(cluster)의 분포를 이해하려는 경우 다음 중 유용한 시각화(plotting) 방법은 무엇인가?",
 						"answerOptions": [
 							{
 								"answerText": "산점도",
@@ -800,55 +800,55 @@
 			},
 			{
 				"id": 15,
-				"title": "Logistic Regression: Pre-Lecture Quiz",
+				"title": "로지스틱 회귀: 강의 전 퀴즈",
 				"quiz": [
 					{
-						"questionText": "Use Logistic Regression to predict",
+						"questionText": "로지스틱 회귀를 사용해 예측할 수 있는 것은 무엇인가?",
 						"answerOptions": [
 							{
-								"answerText": "whether an apple is ripe or not",
+								"answerText": "사과가 익었는지 안 익었는지 예측하는 것",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "how many tickets can be sold in a month",
+								"answerText": "한 달 동안 얼마큼의 표를 판매할 수 있는지 예측하는 것",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "what color the sky will turn tomorrow at 6 PM",
+								"answerText": "내일 오후 6시에 하늘의 어떤 색으로 변할지 예측하는 것",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "Types of Logistic Regression include",
+						"questionText": "다음 중 로지스틱 회귀 유형에 포함되는 것은 무엇인가?",
 						"answerOptions": [
 							{
-								"answerText": "multinomial and cardinal",
+								"answerText": "다항형 및 기수(수량형)",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "multinomial and ordinal",
+								"answerText": "다항형 및 서수(순서형)",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "principal and ordinal",
+								"answerText": "주요 및 서수(순서형)",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "Your data has weak correlations. The best type of Regression to use is:",
+						"questionText": "상관관계가 약한 데이터가 있다. 다음 중 사용하기에 가장 좋은 회귀 유형은 무엇인가?",
 						"answerOptions": [
 							{
-								"answerText": "Logistic",
+								"answerText": "로지스틱",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "Linear",
+								"answerText": "선형",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "Cardinal",
+								"answerText": "기수(수량형)",
 								"isCorrect": "false"
 							}
 						]
@@ -857,55 +857,55 @@
 			},
 			{
 				"id": 16,
-				"title": "Logistic Regression: Post-Lecture Quiz",
+				"title": "로지스틱 회귀: 강의 후 퀴즈",
 				"quiz": [
 					{
-						"questionText": "Seaborn is a type of",
+						"questionText": "Seaborn의 설명으로 가장 적합한 것은 무엇인가?",
 						"answerOptions": [
 							{
-								"answerText": "data visualization library",
+								"answerText": "데이터 시각화 라이브러리",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "mapping library",
+								"answerText": "매핑(mapping) 라이브러리",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "mathematical library",
+								"answerText": "수학 라이브러리",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "A confusion matrix is also known as a:",
+						"questionText": "혼동행렬/정오분류표(confusion matrix)는 다음과 같이 알려져 있기도 하다:",
 						"answerOptions": [
 							{
-								"answerText": "error matrix",
+								"answerText": "오류행렬",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "truth matrix",
+								"answerText": "진리행렬",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "accuracy matrix",
+								"answerText": "정확성행렬",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "A good model will have:",
+						"questionText": "좋은 모델은 다음을 포함한다:",
 						"answerOptions": [
 							{
-								"answerText": "a large number of false positives and true negatives in its confusion matrix",
+								"answerText": "혼동행렬(confusion matrix)에 많은 거짓 긍정(false positive)과 참 부정(true negative)",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "a large number of true positives and true negatives in its confusion matrix",
+								"answerText": "혼동행렬에 많은 참 긍정(true positive)과 참 부정(true negative)",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "a large number of true positives and false negatives in its confusion matrix",
+								"answerText": "혼동행렬에 많은 참 긍정(true positive)과 거짓 부정(false negative)",
 								"isCorrect": "false"
 							}
 						]
@@ -914,10 +914,10 @@
 			},
 			{
 				"id": 17,
-				"title": "Build a Web App: Pre-Lecture Quiz",
+				"title": "웹 애플리케이션 구축: 강의 전 퀴즈",
 				"quiz": [
 					{
-						"questionText": "What does ONNX stand for?",
+						"questionText": "ONNX는 무엇의 약자인가?",
 						"answerOptions": [
 							{
 								"answerText": "Over Neural Network Exchange",
@@ -934,35 +934,35 @@
 						]
 					},
 					{
-						"questionText": "How is Flask defined by its creators?",
+						"questionText": "Flask 개발자에 의해 Flask는 어떻게 정의되는가?",
 						"answerOptions": [
 							{
-								"answerText": "mini-framework",
+								"answerText": "소형(mini) 프레임워크",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "large-framework",
+								"answerText": "대형(large) 프레임워크",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "micro-framework",
+								"answerText": "초소형(micro) 프레임워크",
 								"isCorrect": "true"
 							}
 						]
 					},
 					{
-						"questionText": "What does the Pickle module of Python do",
+						"questionText": "파이썬(Python)의 Pickle 모듈은 어떤 역할을 하는가?",
 						"answerOptions": [
 							{
-								"answerText": "Serializes a Python Object",
+								"answerText": "파이썬 객체 직렬화(serialization)",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "De-serializes a Python Object",
+								"answerText": "파이썬 객체 역직렬화(deserialization)",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "Serializes and De-serializes a Python Object",
+								"answerText": "파이썬 객체 직렬화 및 역직렬화",
 								"isCorrect": "true"
 							}
 						]
@@ -971,10 +971,10 @@
 			},
 			{
 				"id": 18,
-				"title": "Build a Web App: Post-Lecture Quiz",
+				"title": "웹 애플리케이션 구축: 강의 후 퀴즈",
 				"quiz": [
 					{
-						"questionText": "What are the tools we can use to host a pre-trained model on the web using Python?",
+						"questionText": "파이썬(Python)을 사용하여 사전에 훈련된 모델을 웹에 호스팅하는 데 사용할 수 있는 도구는 무엇인가?",
 						"answerOptions": [
 							{
 								"answerText": "Flask",
@@ -985,13 +985,13 @@
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "onnx.js",
+								"answerText": "ONNX.js",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "What does SaaS stand for?",
+						"questionText": "SaaS는 무엇의 약자인가?",
 						"answerOptions": [
 							{
 								"answerText": "System as a Service",
@@ -1008,18 +1008,18 @@
 						]
 					},
 					{
-						"questionText": "What does Scikit-learn's LabelEncoder library do?",
+						"questionText": "Scikit-learn 라이브러리의 LabelEncoder 클래스는 어떤 역할을 하는가?",
 						"answerOptions": [
 							{
-								"answerText": "Encodes data alphabetically",
+								"answerText": "데이터를 알파벳순으로 인코딩한다.",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "Encodes data numerically",
+								"answerText": "데이터를 숫자로 인코딩한다.",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "Encodes data serially",
+								"answerText": "데이터를 직렬로 인코딩한다.",
 								"isCorrect": "false"
 							}
 						]
@@ -1028,55 +1028,55 @@
 			},
 			{
 				"id": 19,
-				"title": "Classification 1: Pre-Lecture Quiz",
+				"title": "분류 1: 강의 전 퀴즈",
 				"quiz": [
 					{
-						"questionText": "Classification is a form of supervised learning that has a lot in common with",
+						"questionText": "분류는 다음 중 무엇과 많은 공통점이 있는 지도 학습의 한 형태인가?",
 						"answerOptions": [
 							{
-								"answerText": "Time Series",
+								"answerText": "시계열",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "Regression techniques",
+								"answerText": "회귀 기법",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "NLP",
+								"answerText": "자연어 처리(Natural Language Processing (NLP))",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "What question can classification help answer?",
+						"questionText": "분류로 답할 수 있는 질문으로 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "Is this email spam or not?",
+								"answerText": "이 이메일은 스팸일까?",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "Can pigs fly?",
+								"answerText": "돼지는 날 수 있을까?",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "What is the meaning of life?",
+								"answerText": "인생의 의미란 무엇일까?",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "What is the first step to using Classification techniques?",
+						"questionText": "분류 기법을 사용하기 위한 첫 번째 단계로 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "creating classes of a dataset",
+								"answerText": "데이터세트의 클래스들을 생성하는 것",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "cleaning and balancing your data",
+								"answerText": "데이터를 정제하고 균형을 잡는 것",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "assigning a data point to a group or outcome",
+								"answerText": "그룹 또는 결과에 데이터 포인트를 할당하는 것",
 								"isCorrect": "false"
 							}
 						]
@@ -1085,51 +1085,51 @@
 			},
 			{
 				"id": 20,
-				"title": "Classification 1: Post-Lecture Quiz",
+				"title": "분류 1: 강의 후 퀴즈",
 				"quiz": [
 					{
-						"questionText": "What is a multiclass question?",
+						"questionText": "다중 분류 문제의 정의로 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "the task of classifying data points into multiple classes",
+								"answerText": "데이터 포인트들을 여러 클래스로 분류하는 것",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "the task of classifying data points into one of several classes",
+								"answerText": "데이터 포인트들을 여러 클래스 중 하나로 분류하는 것",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "the task of cleaning data points in multiple ways",
+								"answerText": "여러 가지 방법으로 데이터 포인트들을 정리하는 것",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "It's important to clean out recurrent or unhelpful data to help your classifiers solve your problem.",
+						"questionText": "분류자가 문제를 해결하는 데 도움이 되도록 중복 데이터와 도움이 되지 않는 데이터를 정리하는 것이 중요하다.",
 						"answerOptions": [
 							{
-								"answerText": "true",
+								"answerText": "맞다.",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "false",
+								"answerText": "틀리다.",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "What's the best reason to balance your data?",
+						"questionText": "데이터의 균형을 잡는 이유로 가장 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "Imbalanced data looks bad in visualizations",
+								"answerText": "불균형 데이터는 시각화를 했을 때 좋지 않게 보인다.",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "Balancing your data yields better results because an ML model won't skew towards one class",
+								"answerText": "데이터의 균형을 맞추면 머신러닝 모델이 한 클래스에 편향된 예측이나 결정을 내리지 않기에 더 나은 결과를 기대할 수 있다.",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "Balancing your data gives you more data points",
+								"answerText": "데이터의 균형을 잡으면 더 많은 데이터 포인트를 얻을 수 있다.",
 								"isCorrect": "false"
 							}
 						]
@@ -1138,51 +1138,51 @@
 			},
 			{
 				"id": 21,
-				"title": "Classification 2: Pre-Lecture Quiz",
+				"title": "분류 2: 강의 전 퀴즈",
 				"quiz": [
 					{
-						"questionText": "Balanced, clean data yields the best classification results",
+						"questionText": "균형이 잡히고 깨끗한 데이터는 최상의 분류 결과를 도출한다.",
 						"answerOptions": [
 							{
-								"answerText": "true",
+								"answerText": "맞다.",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "false",
+								"answerText": "틀리다.",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "How do you choose the right classifier?",
+						"questionText": "올바른 분류기를 선택하는 데 도움이 되는 것으로 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "Understand which classifiers work best for which scenarios",
+								"answerText": "어떤 분류기가 어떤 시나리오에 가장 적합한지 이해하는 것",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "Educated guess and check",
+								"answerText": "교육을 바탕으로 분류기의 적합성을 추측 및 검증하는 것",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "Both of the above",
+								"answerText": "이상 두 가지 모두 맞다.",
 								"isCorrect": "true"
 							}
 						]
 					},
 					{
-						"questionText": "Classification is a type of",
+						"questionText": "분류는 ___의 한 유형이다. 빈 칸에 들어갈 명사로 알맞은 것은?",
 						"answerOptions": [
 							{
-								"answerText": "NLP",
+								"answerText": "자연어 처리",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "Supervised Learning",
+								"answerText": "지도 학습",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "Programming language",
+								"answerText": "프로그래밍 언어",
 								"isCorrect": "false"
 							}
 						]
@@ -1191,55 +1191,55 @@
 			},
 			{
 				"id": 22,
-				"title": "Classification 2: Post-Lecture Quiz",
+				"title": "분류 2: 강의 후 퀴즈",
 				"quiz": [
 					{
-						"questionText": "What is a 'solver'?",
+						"questionText": "해결자(solver)에 대한 설명으로 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "the person who double-checks your work",
+								"answerText": "나의 작업을 재확인하는 사람",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "the algorithm to use in the optimization problem",
+								"answerText": "최적화 문제에 사용하는 알고리즘",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "a machine learning technique",
+								"answerText": "머신러닝 기술",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "Which classifier did we use in this lesson?",
+						"questionText": "이번 수업에서 사용한 분류기는?",
 						"answerOptions": [
 							{
-								"answerText": "Logistic Regression",
+								"answerText": "로지스틱 회귀",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "Decision Trees",
+								"answerText": "의사결정 나무",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "One-vs-All Multiclass",
+								"answerText": "일대다 다중 클래스(One-vs-All Multiclass)",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "How do you know if the classification algorithm is working as expected?",
+						"questionText": "분류 알고리즘이 예상대로 작동하는지 알 수 있는 방법으로 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "By checking the accuracy of its predictions",
+								"answerText": "예측의 정확도 확인을 통해 알 수 있다.",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "By checking it against other algorithms",
+								"answerText": "다른 알고리즘들과 대조하여 알 수 있다.",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "By looking at historical data for how good this algorithm is at solving similar problems",
+								"answerText": "해당 알고리즘이 유사한 문제들을 얼마나 잘 해결하는지 과거 데이터를 살펴봄으로써 알 수 있다.",
 								"isCorrect": "false"
 							}
 						]
@@ -1248,55 +1248,55 @@
 			},
 			{
 				"id": 23,
-				"title": "Classification 3: Pre-Lecture Quiz",
+				"title": "분류 3: 강의 전 퀴즈",
 				"quiz": [
 					{
-						"questionText": "A good initial classifier to try is:",
+						"questionText": "첫 번째로 시도해 볼 만한 분류기로 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "Linear SVC",
+								"answerText": "선형 서포트 벡터 분류기(Support Vector Classifier (SVC))",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "K-Means",
+								"answerText": "k-평균 분류기",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "Logical SVC",
+								"answerText": "논리형 서포트 벡터 분류기",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "Regularization controls:",
+						"questionText": "정칙화(regularization)가 제어하는 것으로 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "the influence of parameters",
+								"answerText": "매개변수의 영향",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "the influence of training speed",
+								"answerText": "훈련 속도의 영향",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "the influence of outliers",
+								"answerText": "이상치의 영향",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "K-Neighbors classifier can be used for:",
+						"questionText": "k-최근접 이웃(k-NN) 분류기를 사용하기 가장 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "supervised learning",
+								"answerText": "지도 학습",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "unsupervised learning",
+								"answerText": "비지도 학습",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "both of these",
+								"answerText": "이상 두 가지 모두 맞다.",
 								"isCorrect": "true"
 							}
 						]
@@ -1305,55 +1305,55 @@
 			},
 			{
 				"id": 24,
-				"title": "Classification 3: Post-Lecture Quiz",
+				"title": "분류 3: 강의 후 퀴즈",
 				"quiz": [
 					{
-						"questionText": "Support-Vector classifiers can be used for",
+						"questionText": "서포트 벡터 분류기(Support Vector Classifier (SVC))를 사용하기에 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "classification",
+								"answerText": "분류",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "regression",
+								"answerText": "회귀",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "both of these",
+								"answerText": "이상 두 가지 모두 맞다.",
 								"isCorrect": "true"
 							}
 						]
 					},
 					{
-						"questionText": "Random Forest is a ___ type of classifier",
+						"questionText": "랜덤 포레스트(Random Forest)는 ___ 유형의 분류기이다. 빈 칸에 들어갈 단어로 알맞은 것은?",
 						"answerOptions": [
 							{
-								"answerText": "Ensemble",
+								"answerText": "앙상블(ensemble)",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "Dissemble",
+								"answerText": "디셈블(dissemble)",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "Assemble",
+								"answerText": "어셈블(assemble)",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "Adaboost is known for:",
+						"questionText": "에이다부스트(AdaBoost)가 중점을 두는 것으로 알려져 있는 것은?",
 						"answerOptions": [
 							{
-								"answerText": "focusing on the weights of incorrectly classified items",
+								"answerText": "잘못 분류된 항목의 가중치",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "focusing on outliers",
+								"answerText": "이상치",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "focusing on incorrect data",
+								"answerText": "잘못된 데이터",
 								"isCorrect": "false"
 							}
 						]
@@ -1362,51 +1362,51 @@
 			},
 			{
 				"id": 25,
-				"title": "Classification 4: Pre-Lecture Quiz",
+				"title": "분류 4: 강의 전 퀴즈",
 				"quiz": [
 					{
-						"questionText": "Recommendation systems might be used for",
+						"questionText": "추천 시스템의 적용 사례로 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "Recommending a good restaurant",
+								"answerText": "맛집 추천",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "Recommending fashions to try",
+								"answerText": "패션 추천",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "Both of these",
+								"answerText": "이상 두 가지 모두 맞다.",
 								"isCorrect": "true"
 							}
 						]
 					},
 					{
-						"questionText": "Embedding a model in a web app helps it to be offline-capable",
+						"questionText": "웹 애플리케이션에 모델을 포함하면 오프라인 사용이 가능해진다.",
 						"answerOptions": [
 							{
-								"answerText": "true",
+								"answerText": "맞다.",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "false",
+								"answerText": "틀리다.",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "Onnx Runtime can be used for",
+						"questionText": "ONNX 런타임(Runtime)의 용도로 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "Running models in a web app",
+								"answerText": "웹 애플리케이션에서 모델 실행",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "Training models",
+								"answerText": "모델 훈련",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "Hyperparameter tuning",
+								"answerText": "초매개변수 조정",
 								"isCorrect": "false"
 							}
 						]
@@ -1415,27 +1415,27 @@
 			},
 			{
 				"id": 26,
-				"title": "Classification 4: Post-Lecture Quiz",
+				"title": "분류 4: 강의 후 퀴즈",
 				"quiz": [
 					{
-						"questionText": "Netron app helps you:",
+						"questionText": "Netron 애플리케이션이 도움을 주는 것은?",
 						"answerOptions": [
 							{
-								"answerText": "Visualize data",
+								"answerText": "데이터 시각화",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "Visualize your model's structure",
+								"answerText": "모델 구조 시각화",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "Test your web app",
+								"answerText": "웹 애플리케이션 성능 시험",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "Convert your Scikit-learn model for use with Onnx using:",
+						"questionText": "ONNX와 함께 사용할 scikit-learn 모델을 변환하는 데 적절한 것은?",
 						"answerOptions": [
 							{
 								"answerText": "sklearn-app",
@@ -1452,18 +1452,18 @@
 						]
 					},
 					{
-						"questionText": "Using your model in a web app is called:",
+						"questionText": "웹 애플리케이션에서 모델을 사용하는 것을 한 단어로 설명하기에 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "inference",
+								"answerText": "추론(inference)",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "interference",
+								"answerText": "개입(interference)",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "insurance",
+								"answerText": "보험(insurance)",
 								"isCorrect": "false"
 							}
 						]
@@ -1472,55 +1472,55 @@
 			},
 			{
 				"id": 27,
-				"title": "Introduction to Clustering: Pre-Lecture Quiz",
+				"title": "군집화(clustering) 입문: 강의 전 퀴즈",
 				"quiz": [
 					{
-						"questionText": "A real-life example of clustering would be",
+						"questionText": "군집화의 실사례로 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "Setting the dinner table",
+								"answerText": "저녁상 차리기",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "Sorting the laundry",
+								"answerText": "세탁물 분류하기",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "Grocery shopping",
+								"answerText": "장보기",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "Clustering techniques can be used in these industries",
+						"questionText": "군집화 기법을 적용할 수 있는 산업으로 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "banking",
+								"answerText": "금융",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "e-commerce",
+								"answerText": "전자 상거래",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "both of these",
+								"answerText": "이상 두 가지 모두 맞다.",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "Clustering is a type of:",
+						"questionText": "군집화의 유형으로 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "supervised learning",
+								"answerText": "지도 학습",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "unsupervised learning",
+								"answerText": "비지도 학습",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "reinforcement learning",
+								"answerText": "강화 학습",
 								"isCorrect": "false"
 							}
 						]
@@ -1529,55 +1529,55 @@
 			},
 			{
 				"id": 28,
-				"title": "Introduction to Clustering: Post-Lecture Quiz",
+				"title": "군집화(clustering) 입문: 강의 후 퀴즈",
 				"quiz": [
 					{
-						"questionText": "Euclidean geometry is arranged along",
+						"questionText": "유클리드 기하학이 대상으로 하는 것은?",
 						"answerOptions": [
 							{
-								"answerText": "planes",
+								"answerText": "평면",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "curves",
+								"answerText": "곡선",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "spheres",
+								"answerText": "구(球, sphere)",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "The density of your clustering data is related to its",
+						"questionText": "군집 데이터의 밀도와 관련있는 것은?",
 						"answerOptions": [
 							{
-								"answerText": "noise",
+								"answerText": "잡음(노이즈, noise)",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "depth",
+								"answerText": "깊이",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "validity",
+								"answerText": "타당도(validity)",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "The best-known clustering algorithm is",
+						"questionText": "가장 잘 알려진 군집화 알고리즘으로 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "k-means",
+								"answerText": "k-평균",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "k-middle",
+								"answerText": "k-중간",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "k-mart",
+								"answerText": "k-마트",
 								"isCorrect": "false"
 							}
 						]
@@ -1586,55 +1586,55 @@
 			},
 			{
 				"id": 29,
-				"title": "K-Means Clustering: Pre-Lecture Quiz",
+				"title": "k-평균 군집화: 강의 전 퀴즈",
 				"quiz": [
 					{
-						"questionText": "K-Means is derived from:",
+						"questionText": "k-평균의 근원으로 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "electrical engineering",
+								"answerText": "전기 공학",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "signal processing",
+								"answerText": "신호 처리",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "computational linguistics",
+								"answerText": "컴퓨터 언어학",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "A good Silhouette score means:",
+						"questionText": "좋은 실루엣(Silhouette) 점수의 설명으로 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "clusters are well-separated and well-defined",
+								"answerText": "군집들이 잘 분리되었으며 잘 정의되었다.",
 								"isCorrect": "true"
 							},
 							{
-								"answerText": "there are few clusters",
+								"answerText": "군집의 수가 적다.",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "there are many clusters",
+								"answerText": "군집의 수가 많다.",
 								"isCorrect": "false"
 							}
 						]
 					},
 					{
-						"questionText": "Variance is:",
+						"questionText": "분산(variance)의 설명으로 적절한 것은?",
 						"answerOptions": [
 							{
-								"answerText": "the average of the squared differences from the mean",
+								"answerText": "관측값에서 산술 평균을 뺀 차이값의 제곱의 평균이다.",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "a problem for clustering if it becomes too high",
+								"answerText": "분산값이 너무 높아지면 군집화에 문제가 된다.",
 								"isCorrect": "false"
 							},
 							{
-								"answerText": "both of these",
+								"answerText": "이상 두 가지 모두 맞다.",
 								"isCorrect": "true"
 							}
 						]
@@ -1643,7 +1643,7 @@
 			},
 			{
 				"id": 30,
-				"title": "K-Means Clustering: Post-Lecture Quiz",
+				"title": "K-평균 군집화: 강의 후 퀴즈",
 				"quiz": [
 					{
 						"questionText": "A Voronoi diagram shows:",
